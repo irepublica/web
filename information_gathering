@@ -1,0 +1,17 @@
+# find info about the owner of target web
+https://whois.domaintools.com/
+
+# dns information, look up target ip, search target ip
+https://www.robtex.com/
+https://www.bing.com/
+
+# discovery subdomain
+git clone https://github.com/guelfoweb/knock.git
+cd knock/knockpy
+python knockpy.py [domain name]
+
+# files and directores
+dirb [target][wordlist][options]
+man dirb
+
+# 
