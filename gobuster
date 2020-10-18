@@ -1,0 +1,3 @@
+# common use to find hidden subdomain
+# word list usually at /usr/share/wordlists 
+gobuster dir -u http://<ip>:<port> -w <word list location>
